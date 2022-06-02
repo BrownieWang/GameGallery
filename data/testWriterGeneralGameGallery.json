@@ -1,0 +1,29 @@
+{
+    "name": "My game gallery",
+    "games": [
+        {
+            "name": "Overcooked 2",
+            "hoursSpent": 0,
+            "ageRating": "E for Everyone",
+            "category": "Co-op",
+            "isFavourite": false,
+            "reviewRating": 9
+        },
+        {
+            "name": "Human Fall Flat",
+            "hoursSpent": 0,
+            "ageRating": "4+",
+            "category": "Co-op",
+            "isFavourite": false,
+            "reviewRating": 8
+        },
+        {
+            "name": "WipEout",
+            "hoursSpent": 0,
+            "ageRating": "7+",
+            "category": "Racing",
+            "isFavourite": false,
+            "reviewRating": 8
+        }
+    ]
+}
